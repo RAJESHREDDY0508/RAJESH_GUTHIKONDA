@@ -327,16 +327,59 @@ Machine learning model for stock price prediction using historical data analysis
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RAJESHREDDY0508&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJESHREDDY0508&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<!-- Modern 3D Contribution Calendar -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RAJESHREDDY0508/RAJESHREDDY0508/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RAJESHREDDY0508/RAJESHREDDY0508/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RAJESHREDDY0508/RAJESHREDDY0508/output/github-snake-dark.svg" />
+</picture>
+
+<br/><br/>
+
+<!-- Profile Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=RAJESHREDDY0508&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
+
+<br/><br/>
+
+<!-- Stats Cards Row -->
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=RAJESHREDDY0508&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&custom_title=📈%20GitHub%20Stats" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJESHREDDY0508&theme=algolia&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f85149&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="100%"/>
+</td>
+</tr>
+</table>
+
+<!-- Languages Card - Donut Style -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJESHREDDY0508&layout=donut-vertical&theme=algolia&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&custom_title=🔥%20Most%20Used%20Languages" height="300"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJESHREDDY0508&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=📊%20Contribution%20Graph" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJESHREDDY0508&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJESHREDDY0508&theme=tokyo-night&hide_border=true" width="100%"/>
+<!-- Metrics -->
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Total%20Commits-1.2K+-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Pull%20Requests-50+-1f6feb?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Repositories-30+-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Issues%20Closed-25+-f85149?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</td>
+</tr>
+</table>
 
 </div>
 
