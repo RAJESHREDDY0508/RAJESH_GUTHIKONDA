@@ -22,7 +22,7 @@ I engineer backend systems that handle **high throughput**, maintain **99.9% upt
 
 <br/>
 
-[📧 Email](mailto:your.email@example.com) • [💼 LinkedIn](https://linkedin.com/in/yourprofile) • [🌐 Portfolio](https://yourportfolio.com) • [📍 Location](#)
+[📧 Email](mailto:rajeshreddyguthikonda@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/rajesh-g-reddy-8b85a1144/) • [🌐 Portfolio](https://rajeshreddyguthikonda.com) • [📍 Vermillion, South Dakota](https://maps.google.com/?q=Vermillion,+South+Dakota)
 
 </div>
 
@@ -182,7 +182,7 @@ End-to-end financial data visualization platform with real-time streaming capabi
 - RESTful API with JWT authentication
 - Redis caching for sub-100ms response times
 
-[🔗 View Repository](https://github.com/yourusername/Real-Time-Financial-Dashboard)
+[🔗 View Repository](https://github.com/RAJESHREDDY0508/financial-dashboard)
 
 </td>
 <td width="50%">
@@ -203,7 +203,7 @@ Scalable e-commerce solution with distributed services and event-driven communic
 - Event sourcing with Kafka
 - Containerized deployment with Docker Compose
 
-[🔗 View Repository](https://github.com/yourusername/Ecommerce-Project)
+[🔗 View Repository](https://github.com/RAJESHREDDY0508/Amazon-project)
 
 </td>
 </tr>
@@ -226,7 +226,7 @@ Comprehensive airline ticket booking system with seat management and payment pro
 - Email notification service
 - Admin dashboard for flight management
 
-[🔗 View Repository](https://github.com/yourusername/Airline-Ticket-Reservation-Full-Stack-Java-Project)
+[🔗 View Repository](https://github.com/RAJESHREDDY0508/Airline-Ticket-Reservation-Full-Stack-Java-Project)
 
 </td>
 <td width="50%">
@@ -247,7 +247,7 @@ Machine learning model for stock price prediction using historical data analysis
 - Historical data preprocessing pipeline
 - Interactive prediction visualization
 
-[🔗 View Repository](https://github.com/yourusername/Stock_Price_Prediction)
+[🔗 View Repository](https://github.com/RAJESHREDDY0508/Stock_Price_Prediction)
 
 </td>
 </tr>
@@ -267,11 +267,11 @@ Machine learning model for stock price prediction using historical data analysis
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Portfolio-Frontend-Deploy](https://github.com/yourusername/Portfolio-Frontend-Deploy) | Personal portfolio with modern UI | React, TypeScript, Tailwind |
-| [Portfolio-Backend-DB](https://github.com/yourusername/Portfolio-Backend-DB) | Backend API for portfolio | Spring Boot, PostgreSQL |
-| [Ecommerce-Project](https://github.com/yourusername/Ecommerce-Project) | Full microservices e-commerce | Java, Spring Cloud, Docker |
-| [Airline-Ticket-Reservation](https://github.com/yourusername/Airline-Ticket-Reservation-Full-Stack-Java-Project) | Flight booking system | Java, Spring MVC, MySQL |
-| [Real-Time Financial Dashboard](https://github.com/yourusername/Real-Time-Financial-Dashboard) | Live market data platform | Spring Boot, React, WebSocket |
+| [Portfolio-Frontend-Deploy](https://github.com/RAJESHREDDY0508/Portfolio-Frontend-Deploy) | Personal portfolio with modern UI | React, TypeScript, Tailwind |
+| [Portfolio-Backend-DB](https://github.com/RAJESHREDDY0508/Portfolio-Backend-DB) | Backend API for portfolio | Spring Boot, PostgreSQL |
+| [Amazon-Project](https://github.com/RAJESHREDDY0508/Amazon-project) | Full microservices e-commerce | Java, Spring Cloud, Docker |
+| [Airline-Ticket-Reservation](https://github.com/RAJESHREDDY0508/Airline-Ticket-Reservation-Full-Stack-Java-Project) | Flight booking system | Java, Spring MVC, MySQL |
+| [Financial Dashboard](https://github.com/RAJESHREDDY0508/financial-dashboard) | Live market data platform | Spring Boot, React, WebSocket |
 
 </details>
 
@@ -281,11 +281,11 @@ Machine learning model for stock price prediction using historical data analysis
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Spring-MVC](https://github.com/yourusername/Spring-MVC) | MVC architecture patterns | Spring MVC, Thymeleaf |
-| [Spring-Basics](https://github.com/yourusername/Spring-Basics) | Core Spring concepts | Spring Core, DI, AOP |
-| [Spring-JDBC](https://github.com/yourusername/Spring-JDBC) | Database connectivity | Spring JDBC, Templates |
-| [Spring-PetClinic](https://github.com/yourusername/Spring-PetClinic) | Sample application | Spring Boot, JPA |
-| [Complete_JAVA](https://github.com/yourusername/Complete_JAVA) | Java fundamentals & DSA | Java 17, Collections |
+| [Spring-MVC](https://github.com/RAJESHREDDY0508/Spring-MVC) | MVC architecture patterns | Spring MVC, Thymeleaf |
+| [Spring-Basics](https://github.com/RAJESHREDDY0508/Spring-Basics) | Core Spring concepts | Spring Core, DI, AOP |
+| [Spring-JDBC](https://github.com/RAJESHREDDY0508/Spring-JDBC) | Database connectivity | Spring JDBC, Templates |
+| [Spring-PetClinic](https://github.com/RAJESHREDDY0508/Spring-PetClinic) | Sample application | Spring Boot, JPA |
+| [Complete_JAVA](https://github.com/RAJESHREDDY0508/Complete_JAVA) | Java fundamentals & DSA | Java 17, Collections |
 
 </details>
 
@@ -295,11 +295,11 @@ Machine learning model for stock price prediction using historical data analysis
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Learn-React](https://github.com/yourusername/Learn-React) | React fundamentals & hooks | React, Redux, Context API |
-| [Learn-JavaScript](https://github.com/yourusername/Learn-JavaScript) | JS concepts & patterns | ES6+, Async/Await |
-| [HTML-and-CSS](https://github.com/yourusername/HTML-and-CSS) | Responsive web design | HTML5, CSS3, Flexbox |
-| [Amazon-Project](https://github.com/yourusername/Amazon-Project) | E-commerce UI clone | JavaScript, CSS |
-| [Chatbot-Project](https://github.com/yourusername/Chatbot-Project) | Interactive chatbot | JavaScript, NLP APIs |
+| [Learn-React](https://github.com/RAJESHREDDY0508/Learn-React) | React fundamentals & hooks | React, Redux, Context API |
+| [Learn-JavaScript](https://github.com/RAJESHREDDY0508/Learn-JavaScript) | JS concepts & patterns | ES6+, Async/Await |
+| [HTML-and-CSS](https://github.com/RAJESHREDDY0508/HTML-and-CSS) | Responsive web design | HTML5, CSS3, Flexbox |
+| [Amazon-Project](https://github.com/RAJESHREDDY0508/Amazon-project) | E-commerce UI clone | JavaScript, CSS |
+| [Chatbot-Project](https://github.com/RAJESHREDDY0508/Chatbot-Project) | Interactive chatbot | JavaScript, NLP APIs |
 
 </details>
 
@@ -309,11 +309,11 @@ Machine learning model for stock price prediction using historical data analysis
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [AI-Compliance](https://github.com/yourusername/AI-Compliance) | Regulatory compliance AI | Python, NLP, Transformers |
-| [Stock_Price_Prediction](https://github.com/yourusername/Stock_Price_Prediction) | Financial forecasting ML | Python, LSTM, TensorFlow |
-| [MLF-CNN](https://github.com/yourusername/MLF-CNN) | CNN image classification | Python, Keras, CNN |
-| [MLF-Final-Project](https://github.com/yourusername/MLF-Final-Project) | End-to-end ML pipeline | Python, Scikit-learn |
-| [Price-Optimizer](https://github.com/yourusername/Price-Optimizer) | Dynamic pricing model | Python, Optimization |
+| [AI-Compliance](https://github.com/RAJESHREDDY0508/AI-Compliance) | Regulatory compliance AI | Python, NLP, Transformers |
+| [Stock_Price_Prediction](https://github.com/RAJESHREDDY0508/Stock_Price_Prediction) | Financial forecasting ML | Python, LSTM, TensorFlow |
+| [MLF-CNN](https://github.com/RAJESHREDDY0508/MLF-CNN) | CNN image classification | Python, Keras, CNN |
+| [MLF-Final-Project](https://github.com/RAJESHREDDY0508/MLF-Final-Project) | End-to-end ML pipeline | Python, Scikit-learn |
+| [Price-Optimizer](https://github.com/RAJESHREDDY0508/Price-Optimizer) | Dynamic pricing model | Python, Optimization |
 
 </details>
 
@@ -327,16 +327,16 @@ Machine learning model for stock price prediction using historical data analysis
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RAJESHREDDY0508&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJESHREDDY0508&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJESHREDDY0508&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJESHREDDY0508&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
@@ -440,10 +440,10 @@ My approach to learning is project-driven: I build to understand, not just to sh
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rajeshreddyguthikonda.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-g-reddy-8b85a1144/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RAJESHREDDY0508)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeshreddyguthikonda@gmail.com)
 
 <br/>
 
@@ -451,7 +451,7 @@ My approach to learning is project-driven: I build to understand, not just to sh
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=RAJESHREDDY0508&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 <br/>
 
