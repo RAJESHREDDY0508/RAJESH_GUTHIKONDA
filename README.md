@@ -336,10 +336,6 @@ Machine learning model for stock price prediction using historical data analysis
 
 <br/><br/>
 
-
-<!-- Languages Card - Donut Style -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJESHREDDY0508&layout=donut-vertical&theme=algolia&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&custom_title=🔥%20Most%20Used%20Languages" height="300"/>
-
 <br/><br/>
 
 <!-- Activity Graph -->
