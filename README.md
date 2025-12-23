@@ -336,22 +336,6 @@ Machine learning model for stock price prediction using historical data analysis
 
 <br/><br/>
 
-<!-- Profile Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=RAJESHREDDY0508&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
-
-<br/><br/>
-
-<!-- Stats Cards Row -->
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=RAJESHREDDY0508&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&custom_title=📈%20GitHub%20Stats" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJESHREDDY0508&theme=algolia&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f85149&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="100%"/>
-</td>
-</tr>
-</table>
 
 <!-- Languages Card - Donut Style -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJESHREDDY0508&layout=donut-vertical&theme=algolia&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&custom_title=🔥%20Most%20Used%20Languages" height="300"/>
