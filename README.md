@@ -97,7 +97,7 @@ I engineer backend systems that handle **high throughput**, maintain **99.9% upt
 <td>
 
 ### 🏦 Citi — Full-Stack Software Engineer Intern
-**Jun 2024 – May 2025** | Tampa, FL
+**May 2024 – May 2025** | Tampa, FL
 
 </td>
 <td align="right">
@@ -129,7 +129,7 @@ I engineer backend systems that handle **high throughput**, maintain **99.9% upt
 <td>
 
 ### 🏢 Aditya Birla Sun Life Insurance — Software Engineer
-**Sep 2021 – Aug 2023** | Mumbai, India
+**May 2021 – Nov 2023** | Mumbai, India
 
 </td>
 <td align="right">
