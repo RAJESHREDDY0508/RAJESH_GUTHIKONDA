@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Rajesh Reddy Guthikonda**
 
-### Software Engineer | Full-Stack & Backend Systems
+### Full-Stack Java Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Distributed+Systems;Java+%7C+Spring+Boot+%7C+Microservices;React+%7C+Cloud+%7C+DevOps+Engineering;Turning+Complex+Problems+into+Elegant+Solutions" alt="Typing SVG" />
 
@@ -17,12 +17,12 @@
 
 <br/>
 
-**2+ years building production systems** at scale — from financial services microservices to real-time dashboards.  
+**5+ years building production systems** at scale — from financial services microservices to real-time dashboards.  
 I engineer backend systems that handle **high throughput**, maintain **99.9% uptime**, and scale with business needs.
 
 <br/>
 
-[📧 Email](mailto:rajeshreddyguthikonda@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/rajesh-g-reddy-8b85a1144/) • [🌐 Portfolio](https://rajeshreddyguthikonda.com) • [📍 Vermillion, South Dakota](https://maps.google.com/?q=Vermillion,+South+Dakota)
+[📧 Email](mailto:rajeshreddyguthikonda007@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/rajesh-g-reddy-8b85a1144/) • [🌐 Portfolio](https://rajeshreddyguthikonda.com) • [📍 Vermillion, South Dakota](https://maps.google.com/?q=Vermillion,+South+Dakota)
 
 </div>
 
