@@ -17,7 +17,7 @@
 
 <br/>
 
-**5+ years building production systems** at scale — from financial services microservices to real-time dashboards.  
+**4 years building production systems** at scale — from financial services microservices to real-time dashboards.  
 I engineer backend systems that handle **high throughput**, maintain **99.9% uptime**, and scale with business needs.
 
 <br/>
@@ -91,38 +91,6 @@ I engineer backend systems that handle **high throughput**, maintain **99.9% upt
 <br/>
 
 ## 💼 Professional Experience
-
-<table>
-<tr>
-<td>
-
-### 🏦 Citi — Full-Stack Software Engineer Intern
-**May 2024 – May 2025** | Tampa, FL
-
-</td>
-<td align="right">
-
-![Java](https://img.shields.io/badge/-Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-- Architected **10+ microservices** using Spring Boot 3 with OAuth 2.0 security for real-time financial data processing
-- Reduced API response latency by **40%** through Redis caching layer implementation
-- Built React dashboard with D3.js visualizations, improving analyst decision-making speed by **25%**
-- Deployed containerized services on **AWS ECS** with auto-scaling, handling **10K+ concurrent requests**
-- Implemented CI/CD pipelines with **Jenkins** achieving **95% code coverage** via JUnit/Mockito
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 <table>
 <tr>
