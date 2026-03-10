@@ -17,7 +17,7 @@
 
 <br/>
 
-**4 years building production systems** at scale — from financial services microservices to real-time dashboards.  
+**2 years building production systems** at scale — from financial services microservices to real-time dashboards.  
 I engineer backend systems that handle **high throughput**, maintain **99.9% uptime**, and scale with business needs.
 
 <br/>
@@ -97,7 +97,7 @@ I engineer backend systems that handle **high throughput**, maintain **99.9% upt
 <td>
 
 ### 🏢 Aditya Birla Sun Life Insurance — Software Engineer
-**May 2021 – Nov 2023** | Mumbai, India
+**Oct 2021 – Nov 2023** | Mumbai, India
 
 </td>
 <td align="right">
