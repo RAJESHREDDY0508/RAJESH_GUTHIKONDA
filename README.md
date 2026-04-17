@@ -17,7 +17,7 @@
 
 <br/>
 
-**2 years building production systems** at scale — from financial services microservices to real-time dashboards.  
+**3 years building production systems** at scale — from financial services microservices to real-time dashboards.  
 I engineer backend systems that handle **high throughput**, maintain **99.9% uptime**, and scale with business needs.
 
 <br/>
@@ -116,7 +116,6 @@ I engineer backend systems that handle **high throughput**, maintain **99.9% upt
 - Migrated monolith to **event-driven microservices** using Kafka, reducing deployment time by **60%**
 - Optimized Oracle DB queries and implemented connection pooling, achieving **35% latency reduction**
 - Led integration of **RESTful APIs** with 15+ third-party vendors for claims automation
-- Mentored **3 junior developers** on clean code practices and design patterns
 
 </td>
 </tr>
